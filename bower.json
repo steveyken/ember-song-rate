@@ -1,0 +1,15 @@
+{
+  "name": "ember-song-rate",
+  "version": "0.0.1",
+  "dependencies": {
+    "ember": "~1.5.0",
+    "ember-data": "1.0.0-beta.7",
+    "ember-localstorage-adapter": "latest",
+    "handlebars": "~1.3.0",
+    "jquery": "~2.1.0",
+    "bootstrap": "latest",
+    "lodash": "latest",
+    "underscore.string": "latest",
+    "font-awesome": "latest"
+  }
+}
